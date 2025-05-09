@@ -66,6 +66,7 @@ We used a combination of **government census**, **open municipal data**, and **s
 📁 /code-visulization   → Generated charts and code (Figures 1–8)
 📁 /child-care-data     → Datasets with licenced child care centres
 📁 /boundaries-data     → Census subdivision boundary files
+📁 /images              → Images of RootAccess app
 📄 report.pdf           → Full written report (To be added)
 📄 README.md            → This file
 ```
@@ -80,6 +81,16 @@ We used a combination of **government census**, **open municipal data**, and **s
 
 ---
 
-> “Child care is not just a social good—it’s spatial equity.”  
+## 🌱 [RootAccess](https://github.com/IanMacwan/root-access)
+
+RootAccess is a **web-based mapping tool** that visualizes **spatial disparities in access to child care services** across the Greater Toronto Area (GTA), with a particular focus on immigrant families.  
+This interactive app is designed to support **equity-driven urban planning** and is implemented to provide a more interactive experience to view data relating to access to child care services.
+
+### 🧭 App Preview
+
+| Landing Page | Postal Code Search |
+|--------------|--------------------|
+| ![Landing Page](./images/landing.png) | ![Search](./images/search.png) |
+
 
 ---
